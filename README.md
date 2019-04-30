@@ -2,7 +2,7 @@
 Qt software for indoor cycling - https://maximumtrainer.com
 
 ## Building
-build with the .pro file inside the project
+build with QtCreator directly with the .pro file inside the project
 more build instruction to come.
 
 See instruction in PowerVelo.pro, needs to better handle dependencies, used to be build on the same machine
